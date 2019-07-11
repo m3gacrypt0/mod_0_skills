@@ -37,7 +37,7 @@
 
 ## decide software development is a career for you
   1. review materials on software dev as a career
-  2. perform research on software dev as a career
+  2. perform research on software dev as a career  
     1.1 talk to software developers in the field  
     1.2 listen to podcasts re software development  
     1.3 review blog articles re software development  
