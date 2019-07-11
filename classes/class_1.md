@@ -4,12 +4,11 @@
 1. name (string)
 2. max_num_students (integer)
 3. default_meeting_location (string)
-4. default_meeting_date_time (datetime)
-5. default_meeting_day (string)
-6. description (string)
-7. satisfies_pe_requirement (boolean)
-8. initial_fee_to_join (float)
-9. students_enrolled (array of strings)
+4. default_meeting_day (string)
+5. description (string)
+6. satisfies_pe_requirement (boolean)
+7. initial_fee_to_join (float)
+8. students_enrolled (array of strings)
 
 ## methods of class extracurricular_clubs:
 1. enroll_student (adds student to the students_enrolled array)
