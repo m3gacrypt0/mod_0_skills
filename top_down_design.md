@@ -5,13 +5,13 @@
   2. follow directions from home to building
   3. search for directions from home to building in Google Maps
   4. get in car
-  5. gather things in preparation for leaving
-    5.1 gather computer
-    5.2 gather charging cable
-    5.3 gather phone
-    5.4 gather car keys
-    5.5 gather id
-    5.6 gather to go coffee
+  5. gather things in preparation for leaving  
+    5.1 gather computer  
+    5.2 gather charging cable  
+    5.3 gather phone  
+    5.4 gather car keys  
+    5.5 gather id  
+    5.6 gather to go coffee   
   6. make to go coffee
   7. brush teeth
   8. eat breakfast
