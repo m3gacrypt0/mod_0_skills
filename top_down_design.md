@@ -5,12 +5,12 @@
   2. follow directions from home to building
   3. search for directions from home to building in Google Maps
   4. get in car
-  5. gather things in preparation for leaving  
-    5.1 gather computer  
-    5.2 gather charging cable  
-    5.3 gather phone  
-    5.4 gather car keys  
-    5.5 gather id  
+  5. gather things in preparation for leaving
+    5.1 gather computer
+    5.2 gather charging cable
+    5.3 gather phone
+    5.4 gather car keys
+    5.5 gather id
     5.6 gather to go coffee
   6. make to go coffee
   7. brush teeth
@@ -42,6 +42,6 @@
     1.2 listen to podcasts re software development  
     1.3 review blog articles re software development  
     1.4 read books on software development  
-  3. narrow down career path to software development  
+  3. narrow down career path to software development
   4. review research on desired career paths
-  5. research different career path
+  5. research different career paths
